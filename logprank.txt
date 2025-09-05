@@ -1,0 +1,328 @@
+ Wed Sep  3 21:38:08 2025 - Неправильный пароль!
+Wed Sep  3 22:04:23 2025 - Заражение файлов отключено пользователем
+Wed Sep  3 22:04:24 2025 - Мышка повернута!!!:)
+Wed Sep  3 22:05:48 2025 - Заражение файлов отключено пользователем
+Wed Sep  3 22:05:49 2025 - Внимание! предупреждение.
+Wed Sep  3 22:07:04 2025 - Заражение файлов отключено пользователем22:15 03.09.2025,  !  .      . 
+ed Sep  3 22:07:04 2025 - Мониторинг приложений запущен...
+Wed Sep  3 22:07:29 2025 - Обнаружено целевое приложение: Командная строка - python  prankforme.py
+Wed Sep  3 22:07:32 2025 - Саботраж выполнен в: Командная строка - python  prankforme.py
+Wed Sep  3 22:10:33 2025 - Заражение файлов отключено пользователем
+Wed Sep  3 22:10:33 2025 - Мониторинг приложений запущен...
+ Wed Sep  3 22:15:56 2025 - Саботраж выполнен в: *logprank.txt – Блокнот
+Wed Sep  3 22:32:38 2025 - Заражение файлов отключено пользователем
+Wed Sep  3 22:32:38 2025 - Мониторинг приложений запущен...
+Wed Sep  3 22:33:34 2025 - Внимание! предупреждение.
+Wed Sep  3 22:36:24 2025 - Обнаружено целевое приложение: Безымянный – Блокнот
+Wed Sep  3 22:36:27 2025 - Саботраж выполнен в: Безымянный – Блокнот
+Wed Sep  3 22:39:10 2025 - Саботраж выполнен в: logprank.txt – Блокнот
+Wed Sep  3 23:12:37 2025 - Показано изображение!: {image} 
+Wed Sep  3 23:12:58 2025 - Заражение файлов отключено пользователем
+Wed Sep  3 23:12:58 2025 - Мониторинг приложений запущен...
+Wed Sep  3 23:13:04 2025 - Внимание! предупреждение.
+Wed Sep  3 23:56:25 2025 - logger: logger init succesfull
+Wed Sep  3 23:56:30 2025 - Показано изображение!: {image} 
+Wed Sep  3 23:56:46 2025 - Заражение файлов отключено пользователем
+Wed Sep  3 23:56:46 2025 - Мониторинг приложений запущен...
+Wed Sep  3 23:56:46 2025 - Мышка повернута!!!:)
+Thu Sep  4 05:11:28 2025 - logger: logger init succesfull
+Запуск....Thu Sep  4 15:08:19 2025 - что?
+Thu Sep  4 15:08:19 2025 - logger: logger init succesfull
+Thu Sep  4 15:08:22 2025 - Показано изображение!: {image} 
+Thu Sep  4 15:08:29 2025 - Неправильный пароль!
+Запуск....Thu Sep  4 15:10:58 2025 - что?
+Thu Sep  4 15:10:58 2025 - logger: logger init succesfull
+Thu Sep  4 15:11:00 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x24BE841C1A0> 
+Запуск....Thu Sep  4 15:12:11 2025 - что?
+Thu Sep  4 15:12:11 2025 - logger: logger init succesfull
+Thu Sep  4 15:12:14 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x20BA4BFC1A0> 
+Thu Sep  4 15:12:21 2025 - Неправильный пароль!
+Запуск....Thu Sep  4 15:12:29 2025 - что?
+Thu Sep  4 15:12:29 2025 - logger: logger init succesfull
+Запуск....Thu Sep  4 15:14:33 2025 - что?
+Thu Sep  4 15:14:33 2025 - logger: logger init succesfull
+Thu Sep  4 15:14:35 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x1EAEE3BC1A0> 
+Thu Sep  4 15:14:42 2025 - Защитник Системы PlatfPo: Успешный запуск.
+Thu Sep  4 15:14:42 2025 - Защитник Системы PlatfPo: Инициализация...
+Thu Sep  4 15:14:42 2025 - Заражение файлов отключено пользователем
+Thu Sep  4 15:14:42 2025 - Защитник Системы PlatfPo: Ошибка: function 'IsDebbugerPresent' not found
+Thu Sep  4 15:14:42 2025 - Мониторинг приложений запущен...
+Thu Sep  4 15:14:42 2025 - Обнаружено целевое приложение: Командная строка - python  prankforme.py
+Thu Sep  4 15:14:43 2025 - Ошибка саботажа: 'charmap' codec can't encode character '\U0001f50a' in position 27: character maps to <undefined>
+Thu Sep  4 15:14:49 2025 - Внимание! предупреждение: {textwarn}
+Thu Sep  4 15:15:32 2025 - Обнаружено целевое приложение: logprank.txt – Блокнот
+Thu Sep  4 15:15:32 2025 - Ошибка саботажа: 'charmap' codec can't encode character '\U0001f50a' in position 27: character maps to <undefined>
+Thu Sep  4 15:16:24 2025 - Обнаружено целевое приложение: logprank.txt – Блокнот
+Thu Sep  4 15:16:24 2025 - Ошибка саботажа: 'charmap' codec can't encode character '\U0001f50a' in position 27: character maps to <undefined>
+Thu Sep  4 15:19:39 2025 - Открыта вкладка: https://www.google.com/search?q=Какого+черта?!
+Thu Sep  4 15:20:19 2025 - Скриншот сохранен: Croc_Screenshots\screenshot_2025-09-04_15-20-19.png
+
+
+
+
+
+
+ 
+Thu Sep  4 15:27:05 2025 - Обнаружено целевое приложение: Выбрать Командная строка - python  prankforme.py
+Thu Sep  4 15:27:05 2025 - Ошибка саботажа: 'charmap' codec can't encode character '\U0001f50a' in position 27: character maps to <undefined>
+Запуск....Thu Sep  4 15:27:37 2025 - С‡С‚Рѕ?
+Thu Sep  4 15:27:37 2025 - logger: logger init succesfull
+Thu Sep  4 15:27:42 2025 - РџРѕРєР°Р·Р°РЅРѕ РёР·РѕР±СЂР°Р¶РµРЅРёРµ!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x23C7F3701A0> 
+Thu Sep  4 15:27:55 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РЈСЃРїРµС€РЅС‹Р№ Р·Р°РїСѓСЃРє.
+Thu Sep  4 15:27:55 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РРЅРёС†РёР°Р»РёР·Р°С†РёСЏ...
+Thu Sep  4 15:27:55 2025 - Р—Р°СЂР°Р¶РµРЅРёРµ С„Р°Р№Р»РѕРІ РѕС‚РєР»СЋС‡РµРЅРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј
+Thu Sep  4 15:27:55 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РЈСЃРїРµС€РЅРѕ РёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°РЅРѕ 
+Thu Sep  4 15:27:55 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РћС‚РєСЂС‹РІР°РµРј РїРѕС‚РѕРє Р°РЅС‚Рё-taskmgr
+Thu Sep  4 15:27:55 2025 - РњРѕРЅРёС‚РѕСЂРёРЅРі РїСЂРёР»РѕР¶РµРЅРёР№ Р·Р°РїСѓС‰РµРЅ...
+Thu Sep  4 15:27:57 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: kernel panic - РћР±РЅР°СЂСѓР¶РµРЅ avp.exe. РђРєС‚РёРІРёСЂСѓСЋ РЎС‚РµР»СЃ Рё Р°РІР°СЂРёР№РЅРѕ РѕСЃС‚Р°РЅР°РІР»РёРІР°СЋ РІСЃСЋ РїСЂРѕРіСѓ...
+Thu Sep  4 15:28:43 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: kernel panic - РћР±РЅР°СЂСѓР¶РµРЅ avp.exe. РђРєС‚РёРІРёСЂСѓСЋ РЎС‚РµР»СЃ Рё Р°РІР°СЂРёР№РЅРѕ РѕСЃС‚Р°РЅР°РІР»РёРІР°СЋ РІСЃСЋ РїСЂРѕРіСѓ...
+Thu Sep  4 15:29:15 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: kernel panic - РћР±РЅР°СЂСѓР¶РµРЅ avp.exe. РђРєС‚РёРІРёСЂСѓСЋ РЎС‚РµР»СЃ Рё Р°РІР°СЂРёР№РЅРѕ РѕСЃС‚Р°РЅР°РІР»РёРІР°СЋ РІСЃСЋ РїСЂРѕРіСѓ...
+Запуск....Thu Sep  4 15:33:08 2025 - С‡С‚Рѕ?
+Thu Sep  4 15:33:08 2025 - logger: logger init succesfull
+Thu Sep  4 15:33:15 2025 - РџРѕРєР°Р·Р°РЅРѕ РёР·РѕР±СЂР°Р¶РµРЅРёРµ!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x231E3A8C2F0> 
+Thu Sep  4 15:33:23 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РЈСЃРїРµС€РЅС‹Р№ Р·Р°РїСѓСЃРє.
+Thu Sep  4 15:33:23 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РРЅРёС†РёР°Р»РёР·Р°С†РёСЏ...
+Thu Sep  4 15:33:23 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РЈСЃРїРµС€РЅРѕ РёРЅРёС†РёР°Р»РёР·РёСЂРѕРІР°РЅРѕ 
+Thu Sep  4 15:33:23 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РћС‚РєСЂС‹РІР°РµРј РїРѕС‚РѕРє Р°РЅС‚Рё-taskmgr
+Thu Sep  4 15:33:23 2025 - Р—Р°СЂР°Р¶РµРЅРёРµ С„Р°Р№Р»РѕРІ РѕС‚РєР»СЋС‡РµРЅРѕ РїРѕР»СЊР·РѕРІР°С‚РµР»РµРј
+Thu Sep  4 15:33:24 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:33:24 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:33:27 2025 - Р’РЅРёРјР°РЅРёРµ! РїСЂРµРґСѓРїСЂРµР¶РґРµРЅРёРµ: {textwarn}
+Thu Sep  4 15:33:54 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: в—Џ prankforme.py - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:33:54 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:33:54 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:34:04 2025 - РћР±РЅР°СЂСѓР¶РµРЅРѕ С†РµР»РµРІРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ: hacker_task_manager_pro.7z вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:34:04 2025 - рџ”ЉРћР·РІСѓС‡РµРЅРѕ: РҐР•РҐРҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐРҐР•РҐР•Р•Р•Р•Р•Р•Р•Р•Р•Р•РҐР•РҐР•РҐР•РҐР•РҐРҐР•РҐР•РҐР•РҐРҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐРҐР•РҐРҐР•
+Thu Sep  4 15:34:07 2025 - РЎР°Р±РѕС‚СЂР°Р¶ РІС‹РїРѕР»РЅРµРЅ РІ: hacker_task_manager_pro.7z вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:34:24 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: *hacker_task_manager_pro.7z вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:34:24 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:34:24 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:41:42 2025 - РЎР°Р±РѕС‚СЂР°Р¶ РІС‹РїРѕР»РЅРµРЅ РІ: logprank.txt вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:42:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: *logprank.txt вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:42:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:42:05 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:42:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:42:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:42:35 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:43:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:43:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:43:05 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:43:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: в—Џ prankforme.py: Original в†” blackbox's Changes (Editable) (prankforme.py) - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:43:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:43:35 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:44:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py: Original в†” blackbox's Changes (Editable) (prankforme.py) - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:44:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:44:05 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:44:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py: Original в†” blackbox's Changes (Editable) (prankforme.py) - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:44:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:44:35 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:45:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py: Original в†” blackbox's Changes (Editable) (prankforme.py) - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:45:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:45:05 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:45:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py: Original в†” blackbox's Changes (Editable) (prankforme.py) - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:45:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:45:35 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:46:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py: Original в†” blackbox's Changes (Editable) (prankforme.py) - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:46:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:46:05 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:46:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: prankforme.py: Original в†” blackbox's Changes (Editable) (prankforme.py) - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:46:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:46:35 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:47:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:47:05 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:47:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: logprank.txt вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:47:35 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:47:35 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Thu Sep  4 15:47:36 2025 - РћР±РЅР°СЂСѓР¶РµРЅРѕ С†РµР»РµРІРѕРµ РїСЂРёР»РѕР¶РµРЅРёРµ: logprank.txt вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:47:36 2025 - рџ”ЉРћР·РІСѓС‡РµРЅРѕ: РҐР•РҐРҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐРҐР•РҐР•Р•Р•Р•Р•Р•Р•Р•Р•Р•РҐР•РҐР•РҐР•РҐР•РҐРҐР•РҐР•РҐР•РҐРҐР•РҐР•РҐР•РҐР•РҐР•РҐР•РҐРҐР•РҐРҐР•
+Thu Sep  4 15:47:39 2025 - РЎР°Р±РѕС‚СЂР°Р¶ РІС‹РїРѕР»РЅРµРЅ РІ: logprank.txt вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:48:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: РѕС‚РєСЂС‹С‚С‹Рµ РѕРєРЅР°: logprank.txt вЂ“ Р‘Р»РѕРєРЅРѕС‚
+Thu Sep  4 15:48:05 2025 - Р—Р°С‰РёС‚РЅРёРє РЎРёСЃС‚РµРјС‹ PlatfPo: Р”РµР±Р°РіРµСЂС‹ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅС‹.
+Thu Sep  4 15:48:05 2025 - Р¤Р°Р№Р» prankforme.py СЃРєРѕРїРёСЂРѕРІР°РЅ РІ backups\prankforme.py 
+Запуск....Thu Sep  4 15:51:04 2025 - что?
+Thu Sep  4 15:51:04 2025 - logger: logger init succesfull
+Thu Sep  4 15:51:08 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x21D4C98C2F0> 
+Thu Sep  4 15:51:14 2025 - Защитник Системы PlatfPo: Успешный запуск.
+Thu Sep  4 15:51:14 2025 - Защитник Системы PlatfPo: Инициализация...
+Thu Sep  4 15:51:14 2025 - Защитник Системы PlatfPo: Успешно инициализировано 
+Thu Sep  4 15:51:14 2025 - Защитник Системы PlatfPo: Открываем поток анти-taskmgr
+Thu Sep  4 15:51:14 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:51:14 2025 - Заражение файлов отключено пользователем
+Thu Sep  4 15:51:14 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:51:14 2025 - Мониторинг приложений запущен...
+Thu Sep  4 15:51:16 2025 - Система пукнула
+Thu Sep  4 15:51:29 2025 - Обнаружено целевое приложение: pass.txt – Блокнот
+Thu Sep  4 15:51:32 2025 - Саботраж выполнен в: pass.txt – Блокнот
+Thu Sep  4 15:51:44 2025 - Защитник Системы PlatfPo: открытые окна: *pass.txt – Блокнот
+Thu Sep  4 15:51:44 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:51:44 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+
+
+ 
+Thu Sep  4 15:52:21 2025 - Саботраж выполнен в: *logprank.txt – Блокнот
+Thu Sep  4 15:52:44 2025 - Защитник Системы PlatfPo: открытые окна: prankforme.py - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:52:44 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:52:44 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:53:14 2025 - Защитник Системы PlatfPo: открытые окна: prankforme.py - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 15:53:14 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:53:14 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:53:44 2025 - Защитник Системы PlatfPo: открытые окна: Program Manager
+Thu Sep  4 15:53:44 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:53:44 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:54:14 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:54:14 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:54:44 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:54:44 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:55:14 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:55:14 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:55:44 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:55:44 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 15:56:14 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 15:56:14 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Запуск....Thu Sep  4 19:36:43 2025 - что?
+Thu Sep  4 19:36:43 2025 - logger: logger init succesfull
+Thu Sep  4 19:36:48 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x1B5B87702F0> 
+Thu Sep  4 19:36:53 2025 - Защитник Системы PlatfPo: Успешный запуск.
+Thu Sep  4 19:36:53 2025 - Защитник Системы PlatfPo: Инициализация...
+Thu Sep  4 19:36:53 2025 - Защитник Системы PlatfPo: Успешно инициализировано 
+Thu Sep  4 19:36:53 2025 - Заражение файлов отключено пользователем
+Thu Sep  4 19:36:53 2025 - Защитник Системы PlatfPo: Открываем поток анти-taskmgr
+Thu Sep  4 19:36:54 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 19:36:54 2025 - Мониторинг приложений запущен...
+Thu Sep  4 19:36:54 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 19:37:10 2025 - BFEertyuytrfghgfdfgtrdfg
+Thu Sep  4 19:37:24 2025 - Защитник Системы PlatfPo: открытые окна: prankforme.py - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 19:37:24 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 19:37:24 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 19:37:39 2025 - Обнаружено целевое приложение: cod.txt – Блокнот
+Thu Sep  4 19:37:42 2025 - Саботраж выполнен в: cod.txt – Блокнот
+Thu Sep  4 19:37:54 2025 - Защитник Системы PlatfPo: открытые окна: *cod.txt – Блокнот
+Thu Sep  4 19:37:54 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 19:37:54 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 19:38:24 2025 - Защитник Системы PlatfPo: открытые окна: prankforme.py - Untitled (Workspace) - Visual Studio Code
+Thu Sep  4 19:38:24 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 19:38:24 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Запуск....Thu Sep  4 19:40:28 2025 - что?
+Thu Sep  4 19:40:28 2025 - logger: logger init succesfull
+Запуск....Thu Sep  4 19:40:59 2025 - что?
+Thu Sep  4 19:40:59 2025 - logger: logger init succesfull
+Thu Sep  4 19:41:14 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x20D7A50C1A0> 
+Thu Sep  4 19:41:26 2025 - Защитник Системы PlatfPo: Успешный запуск.
+Thu Sep  4 19:41:26 2025 - Защитник Системы PlatfPo: Инициализация...
+Thu Sep  4 19:41:26 2025 - Заражение файлов отключено пользователем
+Thu Sep  4 19:41:26 2025 - Защитник Системы PlatfPo: Успешно инициализировано 
+Thu Sep  4 19:41:26 2025 - Защитник Системы PlatfPo: Открываем поток анти-taskmgr
+Thu Sep  4 19:41:26 2025 - Мониторинг приложений запущен...
+Thu Sep  4 19:41:26 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 19:41:26 2025 - Обнаружено целевое приложение: Командная строка - python  prankforme.py
+Thu Sep  4 19:41:26 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 19:41:29 2025 - Внимание! предупреждение: Алигаторы танцую.т
+Thu Sep  4 19:41:29 2025 - Саботраж выполнен в: Командная строка - python  prankforme.py
+Thu Sep  4 19:41:56 2025 - Защитник Системы PlatfPo: открытые окна: Командная строка - python  prankforme.py
+Thu Sep  4 19:41:56 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 19:41:56 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 19:42:15 2025 - Обнаружено целевое приложение: *cod.txt – Блокнот
+Thu Sep  4 19:42:18 2025 - Саботраж выполнен в: *cod.txt – Блокнот
+Thu Sep  4 19:42:26 2025 - Защитник Системы PlatfPo: открытые окна: Командная строка - python  prankforme.py
+Thu Sep  4 19:42:26 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 19:42:26 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Запуск....Thu Sep  4 21:24:36 2025 - что?
+Thu Sep  4 21:24:36 2025 - logger: logger init succesfull
+Запуск....Thu Sep  4 22:48:12 2025 - что?
+Thu Sep  4 22:48:12 2025 - logger: logger init succesfull
+Запуск....Thu Sep  4 22:50:08 2025 - что?
+Thu Sep  4 22:50:08 2025 - logger: logger init succesfull
+Запуск....Thu Sep  4 22:50:51 2025 - что?
+Thu Sep  4 22:50:51 2025 - logger: logger init succesfull
+Thu Sep  4 22:50:55 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x1DD9A54E3C0> 
+Thu Sep  4 22:51:08 2025 - Открыто:Я+Капитулировал+перед+PlatfPo!
+Thu Sep  4 22:51:09 2025 - Открыто:Я+унижен+капитуляцией!+я+проиграл!
+Запуск....Thu Sep  4 23:35:37 2025 - что?
+Thu Sep  4 23:35:37 2025 - logger: logger init succesfull
+Запуск....Thu Sep  4 23:35:41 2025 - что?
+Thu Sep  4 23:35:41 2025 - logger: logger init succesfull
+Thu Sep  4 23:35:44 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x192D191E270> 
+Thu Sep  4 23:35:53 2025 - Защитник Системы PlatfPo: Успешный запуск.
+Thu Sep  4 23:35:53 2025 - Защитник Системы PlatfPo: Инициализация...
+Thu Sep  4 23:35:53 2025 - Защитник Системы PlatfPo: Успешно инициализировано 
+Thu Sep  4 23:35:53 2025 - Заражение файлов отключено пользователем
+Thu Sep  4 23:35:53 2025 - Защитник Системы PlatfPo: Открываем поток анти-taskmgr
+Thu Sep  4 23:35:53 2025 - Мониторинг приложений запущен...
+Thu Sep  4 23:35:53 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:35:53 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:35:53 2025 - Мышка повернута!!!:)
+Thu Sep  4 23:36:18 2025 - Открыто:Я+Капитулировал+перед+PlatfPo!
+Thu Sep  4 23:36:19 2025 - Открыто:Я+унижен+капитуляцией!+я+проиграл!
+Thu Sep  4 23:36:23 2025 - Защитник Системы PlatfPo: открытые окна: ВАША КАПИТУЛЯЦИЯ ПРИНЯТА
+Запуск....Thu Sep  4 23:37:22 2025 - что?
+Thu Sep  4 23:37:22 2025 - logger: logger init succesfull
+Thu Sep  4 23:37:26 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x23DB130E270> 
+Thu Sep  4 23:37:32 2025 - Защитник Системы PlatfPo: Успешный запуск.
+Thu Sep  4 23:37:32 2025 - Защитник Системы PlatfPo: Инициализация...
+Thu Sep  4 23:37:32 2025 - Заражение файлов отключено пользователем
+Thu Sep  4 23:37:32 2025 - Защитник Системы PlatfPo: Успешно инициализировано 
+Thu Sep  4 23:37:32 2025 - Защитник Системы PlatfPo: Открываем поток анти-taskmgr
+Thu Sep  4 23:37:32 2025 - Мониторинг приложений запущен...
+Thu Sep  4 23:37:32 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:37:32 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:37:36 2025 - BFEertyuytrfghgfdfgtrdfg
+Thu Sep  4 23:38:02 2025 - Защитник Системы PlatfPo: открытые окна: Диспетчер задач
+Thu Sep  4 23:38:02 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:38:02 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Запуск....Thu Sep  4 23:38:57 2025 - что?
+Thu Sep  4 23:38:57 2025 - logger: logger init succesfull
+Thu Sep  4 23:38:59 2025 - Показано изображение!: <PIL.JpegImagePlugin.JpegImageFile image mode=RGB size=736x637 at 0x178707BE270> 
+Thu Sep  4 23:39:05 2025 - Защитник Системы PlatfPo: Успешный запуск.
+Thu Sep  4 23:39:05 2025 - Защитник Системы PlatfPo: Инициализация...
+Thu Sep  4 23:39:05 2025 - Защитник Системы PlatfPo: Успешно инициализировано 
+Thu Sep  4 23:39:05 2025 - Заражение файлов отключено пользователем
+Thu Sep  4 23:39:05 2025 - Защитник Системы PlatfPo: Открываем поток анти-taskmgr
+Thu Sep  4 23:39:05 2025 - Мониторинг приложений запущен...
+Thu Sep  4 23:39:05 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:39:05 2025 - Обнаружено целевое приложение: Командная строка - python  prankforme.py
+Thu Sep  4 23:39:05 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:39:08 2025 - Саботраж выполнен в: Командная строка - python  prankforme.py
+Thu Sep  4 23:39:12 2025 - BFEertyuytrfghgfdfgtrdfg
+Thu Sep  4 23:39:35 2025 - Защитник Системы PlatfPo: открытые окна: Список позорных дел.txt – Блокнот
+Thu Sep  4 23:39:35 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:39:35 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:39:57 2025 - Обнаружено целевое приложение: Акт о капитуляции.txt – Блокнот
+Thu Sep  4 23:39:59 2025 - Спец саботаж для блокнота выполнен!
+Thu Sep  4 23:40:00 2025 - Саботраж выполнен в: Акт о капитуляции.txt – Блокнот
+Thu Sep  4 23:40:05 2025 - Защитник Системы PlatfPo: открытые окна: Акт о капитуляции.txt – Блокнот
+Thu Sep  4 23:40:05 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:40:05 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:40:35 2025 - Защитник Системы PlatfPo: открытые окна: Шашлык купить - Поиск в Google — Яндекс Браузер
+Thu Sep  4 23:40:35 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:40:35 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:41:05 2025 - Защитник Системы PlatfPo: открытые окна: Яндекс — Яндекс Браузер
+Thu Sep  4 23:41:05 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:41:05 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:41:35 2025 - Защитник Системы PlatfPo: открытые окна: Program Manager
+Thu Sep  4 23:41:35 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:41:35 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:41:48 2025 - Обнаружено целевое приложение: Выбрать Командная строка - python  prankforme.py
+Thu Sep  4 23:42:05 2025 - Защитник Системы PlatfPo: открытые окна: Выбрать Командная строка - python  prankforme.py
+Thu Sep  4 23:42:05 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:42:05 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:42:16 2025 - Саботраж выполнен в: Выбрать Командная строка - python  prankforme.py
+Thu Sep  4 23:42:35 2025 - Защитник Системы PlatfPo: открытые окна: Командная строка - python  prankforme.py
+Thu Sep  4 23:42:35 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:42:35 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:43:03 2025 - Открыта вкладка: https://www.google.com/search?q=Шашлык+купить
+Thu Sep  4 23:43:05 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:43:05 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:43:35 2025 - Защитник Системы PlatfPo: открытые окна: Program Manager
+Thu Sep  4 23:43:35 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:43:35 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:43:46 2025 - Обнаружено целевое приложение: Командная строка - python  prankforme.py
+Thu Sep  4 23:43:49 2025 - Саботраж выполнен в: Командная строка - python  prankforme.py
+Thu Sep  4 23:44:05 2025 - Защитник Системы PlatfPo: открытые окна: Выбрать Командная строка - python  prankforme.py
+Thu Sep  4 23:44:05 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:44:05 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:44:35 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:44:35 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
+Thu Sep  4 23:45:02 2025 - Обнаружено целевое приложение: Выбрать Командная строка - python  prankforme.py
+Thu Sep  4 23:45:05 2025 - Защитник Системы PlatfPo: открытые окна: Program Manager
+Thu Sep  4 23:45:05 2025 - Защитник Системы PlatfPo: Дебагеры не обнаружены.
+Thu Sep  4 23:45:05 2025 - Файл prankforme.py скопирован в backups\prankforme.py 
